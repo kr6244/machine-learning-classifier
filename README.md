@@ -6,6 +6,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 Content- 
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 Build a Machine Learning model to predict whether a person is having DIABETES or not based on certain diagnostic measurements present in dataset .
+data source - www.kaggle.com , www.google.com.
 
 used different CLASSIFIERS to build the model  and also applied parameter tuning and compared their accuracies.
 
