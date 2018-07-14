@@ -1,0 +1,18 @@
+Accuracy with NAIVE BAYES CLASSIFIER - 74.57 %
+Accuracy with KNN CLASSIFIER - 75.27 %
+Accuracy with KERNEL SVC CLASSIFIER - 75.73 %
+Accuracy with Random Forest CLASSIFIER - 75.01%
+Accuracy with Logistic Regression - 76 %
+Acuuracy with XGBOOST - 76.12 %
+
+AFTER APPLYING PARAMETER TUNING --
+
+Accuracy with NAIVE BAYES CLASSIFIER - 78.58 %
+Accuracy with KNN CLASSIFIER - 79.87 % // n_neighbours = 25  metric = 'minkowski' 
+Accuracy with KERNEL SVC CLASSIFIER - 80.52 %  // C=1 , kernel =linear .
+Accuracy with Random Forest CLASSIFIER - 80.51% //n_estimators =100 , criterion - entropy
+Accuracy with Logistic Regression - 81.32 %
+Acuuracy with XGBOOST - 81.16 % // learning rate - 0.12 , n_estimators = 100
+
+Accuracy with ANN -80.1 %
+
